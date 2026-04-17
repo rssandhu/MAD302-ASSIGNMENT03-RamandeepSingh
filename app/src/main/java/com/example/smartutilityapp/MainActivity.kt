@@ -1,6 +1,6 @@
 /**
  * Course code and lab number: COMP 301 - Lab 5
- * Your full name and Student ID: DEEP SANDHU - 12345678
+ * Your full name and Student ID: Ramandeep Singh - A00194321
  * Date of Submission: April 17, 2026
  *
  * Smart Utility App - A comprehensive Android utility app that demonstrates:
